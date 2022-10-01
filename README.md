@@ -4,4 +4,4 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/HasibAlMuzdadid/YOLO-Algorithm)
 
 
-**Author :** 
+**Author :** </br>
