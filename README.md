@@ -16,3 +16,5 @@ You Only Look Once or YOLO is an algorithm that detects and recognizes various o
 YOLO algorithm improves the speed of detection because it can predict objects in real-time. This is a predictive technique that provides accurate results with minimal background errors. The algorithm has excellent learning capabilities that enable it to learn the representations of objects and apply them in object detection.
 
 YOLO algorithm improves the speed of detection because it can predict objects in real-time. This is a predictive technique that provides accurate results with minimal background errors. The algorithm has excellent learning capabilities that enable it to learn the representations of objects and apply them in object detection.
+
+The ideas were described in these two YOLO papers: [Redmon et al., 2016](https://arxiv.org/abs/1506.02640) and [Redmon and Farhadi, 2016](https://arxiv.org/abs/1612.08242).
