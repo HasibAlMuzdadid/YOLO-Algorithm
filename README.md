@@ -19,4 +19,4 @@ YOLO algorithm improves the speed of detection because it can predict objects in
 
 The ideas were described in these two YOLO papers: [Redmon et al., 2016](https://arxiv.org/abs/1506.02640) and [Redmon and Farhadi, 2016](https://arxiv.org/abs/1612.08242).
 
-This was implemented for the completion of the [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) course offered by [DeepLearning.AI](https://www.deeplearning.ai) on [Coursera](https://www.coursera.org) which is also a part of  [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [DeepLearning.AI]( on Coursera.
+This was implemented for the completion of the [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) course offered by [DeepLearning.AI](https://www.deeplearning.ai) on [Coursera](https://www.coursera.org) which is also a part of  [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [DeepLearning.AI]() on Coursera.
