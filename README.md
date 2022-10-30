@@ -23,4 +23,4 @@ This was implemented for the completion of the [Convolutional Neural Networks](h
 
 
 **Language used :** Python </br>
-**Development Tools :** [Jupyter Notebook]()
+**Development Tools :** [Jupyter Notebook](https://jupyter.org/)
