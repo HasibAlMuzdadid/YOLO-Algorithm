@@ -28,3 +28,4 @@ This was implemented for the completion of the [Convolutional Neural Networks](h
 
 
 **Accomplishments :**
+Course  | Achievement
