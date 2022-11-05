@@ -30,4 +30,4 @@ This was implemented for the completion of the [Convolutional Neural Networks](h
 **Accomplishments :**
 Course  | Achievement
 :-------------: | :-------------:
-Convolutional Neural Networks
+[Convolutional Neural Networks
