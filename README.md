@@ -31,4 +31,4 @@ This was implemented for the completion of the [Convolutional Neural Networks](h
 Course  | Achievement
 :-------------: | :-------------:
 [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/JXTRSEUXQBKU)
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | [Certificate]()
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/9QB8B82CW49V)
